@@ -41,7 +41,7 @@ Project applies RFM (Recency, Frequency, Monetary) analysis on three years of tr
  - Delivered **interactive Tableau dashboards** for decision-makers.
 
 ## Tableau Dashboard ##
-MRA | Tableau Public 
+https://public.tableau.com/app/profile/chetan.khope/viz/MRA_17327060163640/OrdQuantityacrossCountries 
 
 ## Tech Stack ##
  - **KNIME Analytics Platform** → Data cleaning, preprocessing, and RFM scoring.
